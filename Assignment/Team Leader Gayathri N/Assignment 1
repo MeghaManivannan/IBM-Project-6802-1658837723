@@ -1,6 +1,8 @@
-Basic Python
-1. Split this string
+## Basic Python
+### 1. Split this string
+```python
 s = "Hi there Sam!"
+```
 s="Hi there Sam!"
 s=s.split()
 print(s);
